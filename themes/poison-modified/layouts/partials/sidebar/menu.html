@@ -11,6 +11,10 @@
                 <li class="bullet">
                     <a href="{{ $menu_item.URL }}" target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
                 </li>
+			{{ else if $menu_item.SingleFile }}
+                <li class="heading">
+                    <a href="{{ $menu_item.URL }}"  target="_blank" rel="noopener noreferrer">{{ $menu_item.Name }}</a>
+                </li>
             {{ end }}
 
 			{{ if $menu_item.Static }}
