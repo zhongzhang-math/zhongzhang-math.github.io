@@ -5,4 +5,6 @@ draft: false
 layout: single
 ---
 
-[Here](quillen's solution to serre's problem.pdf) are some notes on Quillen's solution to Serre's Problem, based on a talk I gave at the echt seminar on algebraic vector bundles. 
+[Here](quillen_serre_problem.pdf) are some notes on Quillen's solution to Serre's Problem, based on a talk I gave at the echt seminar on algebraic vector bundles. 
+
+[Here](thesis_milnor_number.pdf) is my master thesis on Milnor numbers of complex hypersurfaces, under the supervision of Mona Merling and Thomas Brazelton.
