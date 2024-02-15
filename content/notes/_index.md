@@ -5,4 +5,4 @@ draft: false
 layout: single
 ---
 
-FILLER
+[Here](quillen's solution to serre's problem.pdf) are some notes on Quillen's solution to Serre's Problem, based on a talk I gave at the echt seminar on algebraic vector bundles. 
