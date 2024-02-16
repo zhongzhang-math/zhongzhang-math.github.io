@@ -10,6 +10,7 @@
         {{ .Date.Format "January 2, 2006" }}
       </time>
       {{ end }}
+	  <!--
       <span> - </span>
       <span class="reading-time">
         {{ if gt .ReadingTime 1 }}
@@ -20,6 +21,7 @@
 
         <span>{{ .ReadingTime }} {{ .Scratch.Get "readingTime" }} read</span>
       </span>
+	  -->
     </div>
 
     {{ if .Params.tags }}

@@ -1,0 +1,13 @@
+<li class="heading">Contact:</li>
+<small>
+{{ if .Site.Params.email }}
+	<li class="sub-heading">
+		<a href="{{ .Site.Params.email_url }}">{{ .Site.Params.email }}</a>
+	</li>
+{{ end }}
+{{ if .Site.Params.email }}
+	<li class="sub-heading">
+		<a href="{{ .Site.Params.affiliation_url }}" target="_blank" rel="noopener noreferrer">{{ .Site.Params.affiliation }}</a>
+	</li>
+{{ end }}
+</small>

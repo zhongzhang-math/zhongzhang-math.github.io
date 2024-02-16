@@ -13,6 +13,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "Zhong Zhang"                      # name of your site - appears in the sidebar
+	email = "zhongz@uchicago.edu"
+	affiliation = "University of Chicago"
+	affiliation_url = "https://mathematics.uchicago.edu/"
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     brand_image = "/images/headshot.png"    # path to the image shown in the sidebar
     description = "" # Used as default meta description if not specified in front matter
