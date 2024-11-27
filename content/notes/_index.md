@@ -3,6 +3,7 @@ title: 'Notes'
 draft: false
 layout: single
 ---
+[Here](oral_proposal.pdf) is my topic proposal on two examples of moduli spaces, moduli spaces of curves and moduli spaces of cubic surfaces.
 
 [Here](quillen_serre_problem.pdf) are some notes on Quillen's solution to Serre's Problem, based on a talk I gave at the echt seminar on algebraic vector bundles.
 
