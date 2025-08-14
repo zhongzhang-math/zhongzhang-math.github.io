@@ -3,7 +3,10 @@ RelativeURLs=true
 CanonifyURLs=true
 languageCode = 'en-us'
 title = 'Zhong Zhang'
-theme = 'poison-modified'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/lukeorth/poison'
 
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries

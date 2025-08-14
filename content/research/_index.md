@@ -4,7 +4,7 @@ draft: false
 layout: single
 ---
 
-**Linear representations of the mapping class group of dimension at most 3g − 3**  
+### Linear representations of the mapping class group of dimension at most 3g − 3
 
 with Julian Kaufmann, [Nick Salter](https://nsalter.science.nd.edu/), [Xiyan Zhong](https://xiyan-zhong.github.io/)
 [arxiv](https://arxiv.org/abs/2507.11365) [pdf](mcgreps.pdf)  

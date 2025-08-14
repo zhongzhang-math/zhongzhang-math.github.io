@@ -1,0 +1,13 @@
+{{ $src := .Page.Site.GetPage (.Get "page") }}
+
+{{ if $src }}
+  {{/* Split content into sections by H3 headings */}}
+  {{ $parts := split $src.RawContent "\n### " }}
+
+  {{/* Skip index 0 if it’s pre-heading content */}}
+  {{ range first (.Get "n") (after 1 $parts) }}
+	{{ printf "### %s" . | markdownify }}
+  {{ end }}
+{{ else }}
+  <p><em>Page not found: {{ .page }}</em></p>
+{{ end }}
