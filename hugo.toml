@@ -8,6 +8,10 @@ title = 'Zhong Zhang'
   [[module.imports]]
     path = 'github.com/lukeorth/poison'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
