@@ -43,7 +43,7 @@
     grid-template-rows: 22px 22px auto;
     align-items: center;
     column-gap: 0.4rem;
-    row-gap: 0;
+    row-gap: 0rem;
     width: 100%;
   }
 
@@ -125,27 +125,30 @@
 
   /* Email in its own upper-right cell */
   .sidebar-sticky > a.social[title="Email"] {
-    grid-area: email;
-    display: flex !important;
-    align-self: center;
-    justify-self: center;
-    align-items: center;
-    justify-content: center;
-    width: 22px;
-    height: 22px;
-    margin: 0 !important;
-  }
+  grid-area: email;
+  display: flex !important;
+  align-self: center;
+  justify-self: center;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  margin: 0 !important;
+  transform: translateY(10px);
+
+}
 
   /* Light/dark switch in its own lower-right cell */
-  .sidebar-sticky > .light-dark {
-    grid-area: toggle;
-    display: block;
-    align-self: center;
-    justify-self: center;
-    width: 22px;
-    height: 22px;
-    margin: 0;
-  }
+.sidebar-sticky > .light-dark {
+  grid-area: toggle;
+  display: block;
+  align-self: center;
+  justify-self: center;
+  width: 22px;
+  height: 22px;
+  margin: 0;
+  transform: translateY(14px);
+}
 
   .sidebar-sticky > .light-dark .btn-light-dark {
     width: 22px;
