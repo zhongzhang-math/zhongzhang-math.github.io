@@ -4,6 +4,27 @@ draft: false
 layout: single
 ---
 
+<style>
+.course-details summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.course-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.course-details summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.4rem;
+}
+
+.course-details[open] summary::before {
+  content: "▾";
+}
+</style>
+
 ## University of Chicago
 
 <ul>
