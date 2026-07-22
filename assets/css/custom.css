@@ -20,3 +20,97 @@
 .sidebar-about h1 {
   font-size: 1.8rem;
 }
+@media (max-width: 47.99em) {
+  .sidebar {
+    padding: 0.65rem 0.85rem;
+  }
+
+  .sidebar-sticky {
+    display: grid;
+    grid-template-columns: 52px minmax(0, 1fr) auto auto;
+    grid-template-areas: "photo navigation email toggle";
+    align-items: center;
+    column-gap: 0.6rem;
+    width: 100%;
+  }
+
+  /* Photo on the left */
+  .sidebar-about {
+    grid-area: photo;
+    margin: 0;
+  }
+
+  .sidebar-about .brand {
+    margin: 0;
+  }
+
+  .sidebar-about .brand h1,
+  .sidebar-about .lead {
+    display: none;
+  }
+
+  .sidebar-about img {
+    display: block;
+    width: 52px;
+    height: 52px;
+    margin: 0;
+    object-fit: cover;
+  }
+
+  /* Keep every navigation item */
+  .sidebar-sticky > nav {
+    grid-area: navigation;
+    min-width: 0;
+  }
+
+  .sidebar-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.25rem 0.7rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar-nav > li {
+    display: block;
+    margin: 0;
+  }
+
+  /* Hide other social icons, but retain email */
+  .sidebar-sticky > a.social {
+    display: none;
+  }
+
+  .sidebar-sticky > a.social[title="Email"] {
+    grid-area: email;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.25rem;
+    height: 1.25rem;
+    margin: 0;
+  }
+
+  /* Light/dark switch at the far right */
+  .sidebar-sticky > .light-dark {
+    grid-area: toggle;
+    display: block;
+    margin: 0;
+  }
+
+  .sidebar-sticky > .light-dark .btn-light-dark {
+    width: 32px;
+    height: 32px;
+    margin: 0;
+  }
+
+  .sidebar-sticky > .footnote {
+    display: none;
+  }
+
+  .content {
+    padding-top: 1rem;
+  }
+}
