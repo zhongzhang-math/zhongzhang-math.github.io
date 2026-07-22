@@ -98,7 +98,7 @@ layout: single
     </summary>
     <p>
       <small style="color: #008383;">
-      <u>Description:</u>  This is the third course in a sequence that begins with Math 10500 (Pre-calculus) and Math 13100 (Elementary Functions and Calculus I). The course begins with the calculus of trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
+      <u>Description:</u>  This is the third course a calculus sequence that begins with Math 105 (Pre-calc) and Math 13100 (Elementary Functions and Calculus I). The course begins with the trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
      </small>
      </p>
   </details>

@@ -20,7 +20,7 @@ You can reach me at zhongz@uchicago.edu.
   </li>
   <li>
     <a href="https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html">
-      Configuration Space Summer School, 2026
+      Configuration Spaces Summer School, 2026
     </a>
   </li>
    <li>
