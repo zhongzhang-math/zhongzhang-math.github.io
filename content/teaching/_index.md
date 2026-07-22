@@ -86,48 +86,24 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
   
 <ul>
   <li>
- I was the <strong> Undergraduate Teaching Assistant </strong> for 
-    <details class="course-details">
-    <summary> MATH 260: Honors Calculus, Spring 2023
-    </summary>
-    <p>
-      <small style="color: #008383;">
- Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
-     </small>
-     </p>
-  </details>
-  
-   <details class="course-details">
-    <summary> MATH 114: Multivariable Calculus, Fall 2022
-    </summary>
-    <p>
-      <small style="color: #008383;">
- Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
-     </small>
-     </p>
-  </details>
-  
-   <details class="course-details">
-    <summary> ENM 3750: Biological Data Science I, Spring 2022
-    </summary>
-    <p>
-      <small style="color: #008383;">
- Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
-     </small>
-     </p>
-  </details>
-  
-   <details class="course-details">
-    <summary> MATH 104: Single-Variable Calculus, Fall 2021
-    </summary>
-    <p>
-      <small style="color: #008383;">
-Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
-     </small>
-     </p>
-  </details>
-
-
+<p style="margin-bottom: 0;">
+ I was the <strong>Undergrad Teaching Assistant </strong> for: 
+</p>
+<ul style="margin-top: 0; list-style-type: circle;">
+      <li>
+        <em>
+  MATH 260: Honors Calculus, Spring 2023
+ </li>
+      <li>
+        <em>MATH 114: Multivariable Calculus, Fall 2022
+      </li>
+      <li>
+        <em>ENM 3750: Biological Data Science I, Spring 2022
+      </li>
+      <li>
+        <em>MATH 104: Single-Variable Calculus, Fall 2021        </li>
+        </ul>
+</li>
   </li>
 </ul>
 
