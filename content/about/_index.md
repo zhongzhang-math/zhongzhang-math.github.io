@@ -5,6 +5,11 @@ draft: false
 layout: single
 ---
 
+<div class="mobile-about-photo">
+  <img src="/images/headshot.png" alt="Zhong Zhang">
+</div>
+
+
 Hi, I'm Zhong Zhang, a fourth year math PhD Student at the University of Chicago, working with [Benson Farb](https://www.math.uchicago.edu/~farb/). I completed my undergraduate studies at the University of Pennsylvania. 
 
 I am broadly interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. 
