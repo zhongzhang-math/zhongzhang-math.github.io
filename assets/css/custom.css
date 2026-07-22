@@ -171,23 +171,22 @@
   }
 
   /* About-page photo: mobile only, floated right */
-  .mobile-about-photo {
-    display: block;
-    float: right;
-    width: 190px;
-    max-width: 42%;
-    margin: 0 0 0.6rem 0.9rem;
-  }
+ .mobile-about-photo {
+  display: block;
+  float: right;
+  width: 14em;
+  max-width: 42%;
+  margin: 0 0 0.5em 0.8em;
+}
 
-  .mobile-about-photo img {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin: 0;
-    border: none;
-    border-radius: 0;
-  }
-
+.mobile-about-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+}
   .mobile-about-photo ~ h3 {
     clear: both;
   }
