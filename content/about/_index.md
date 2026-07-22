@@ -9,6 +9,7 @@ Hi, I'm Zhong Zhang, a fourth year math PhD Student at the University of Chicago
 
 I am broadly interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. Outside of math, I enjoy cooking, rock climbing, and playing table tennis. 
 
+You can reach me at zhongz@uchicago.edu.
  
 ### Recent Conferences and Workshops:
 <ul>
