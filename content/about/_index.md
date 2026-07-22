@@ -5,10 +5,28 @@ draft: false
 layout: single
 ---
 
-Hi, I'm Zhong Zhang, a third year math PhD Student at the University of Chicago, working with [Benson Farb](https://www.math.uchicago.edu/~farb/).  I did my undergraduate at University of Pennsylvania. 
+Hi, I'm Zhong Zhang, a fourth year math PhD Student at the University of Chicago, working with [Benson Farb](https://www.math.uchicago.edu/~farb/). I completed my undergraduate studies at the University of Pennsylvania. 
 
-I am generally interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. Outside of math, I enjoy cooking, rock climbing, and playing table tennis. 
+I am broadly interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. Outside of math, I enjoy cooking, rock climbing, and playing table tennis. 
 
-Below is a my most recent preprint. To see all of my papers, see [my research page](../research).
+ 
+### Recent Conferences and Workshops:
+<ul>
+  <li>
+    <a href="https://margalit.droppages.net/tsw26">
+      Topological Student Workshop, 2026
+    </a>
+  </li>
+  <li>
+    <a href="https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html">
+      Configuration Space Summer School, 2026
+    </a>
+  </li>
+   <li>
+    <a href="https://redbud.math.ou.edu/spring-2026/">
+     Redbud Topology Conference, 2026
+    </a>
+  </li>
+</ul>
 
-{{< first5sections page="research/_index.md" n=1 >}}
+
