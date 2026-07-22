@@ -9,3 +9,14 @@
   margin-top: 0;
   margin-bottom: 0.3rem;
 }
+
+.sidebar a.social[title="Email"] {
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sidebar-about h1 {
+  font-size: 1.8rem;
+}
