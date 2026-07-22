@@ -4,6 +4,11 @@ draft: false
 layout: single
 ---
 <style>
+.course-details p {
+  margin-left: 1rem;
+  margin-right: 2rem;
+}
+
 @media (max-width: 600px) {
   .course-details summary {
     list-style: none;
@@ -68,7 +73,7 @@ layout: single
     </summary>
     <p>
       <small style="color: #008383;">
-     Description: This is the second course in a sequence that begins with Math 13100 (Elementary Functions and Calculus I). Topics examined in MATH 13200 include applications of differentiation; exponential, logarithmic, and trigonometric functions; the definite integral and the Fundamental Theorem of Calculus, and applications of the integral.
+      <u>Description:</u>  This is the second course in a sequence that begins with Math 13100 (Elementary Functions and Calculus I). Topics examined in MATH 13200 include applications of differentiation; exponential, logarithmic, and trigonometric functions; the definite integral and the Fundamental Theorem of Calculus, and applications of the integral.
      </small>
            </p>
   </details>
@@ -78,7 +83,7 @@ layout: single
     </summary>
     <p>
       <small style="color: #008383;">
-     Description: This is the first course in the calculus sequence MATH 131-132-133. MATH 131 gives a careful treatment of limits, the continuity and differentiability of algebraic functions, and applications of the derivative. </small>
+      <u>Description:</u>  This is the first course in the calculus sequence MATH 131-132-133. MATH 131 gives a careful treatment of limits, the continuity and differentiability of algebraic functions, and applications of the derivative. </small>
            </p>
   </details>
   </li>
@@ -93,7 +98,7 @@ layout: single
     </summary>
     <p>
       <small style="color: #008383;">
-     Description: This is the third course in a sequence that begins with Math 10500 (Pre-calculus) and Math 13100 (Elementary Functions and Calculus I). The course begins with the calculus of trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
+      <u>Description:</u>  This is the third course in a sequence that begins with Math 10500 (Pre-calculus) and Math 13100 (Elementary Functions and Calculus I). The course begins with the calculus of trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
      </small>
      </p>
   </details>
@@ -103,7 +108,7 @@ layout: single
     </summary>
     <p>
      <small style="color: #008383;">
-Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs, fields and field extensions, modules and canonical forms of matrices, quadratic forms, and multilinear algebra.
+ <u>Description:</u>  This course covers rings and ideals, PIDs, Euclidean domains, UFDs, fields and field extensions, modules and canonical forms of matrices, quadratic forms, and multilinear algebra.
      </small>
      </p>
   </details>
@@ -114,7 +119,7 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
     </summary>
     <p>
      <small style="color: #008383;"> 
-     Description:  This course gives an introduction to concepts and examples in the study of dynamical systems. The key notions of recurrence, classification, stability, entropy and chaos will be introduced and illustrated through model examples. A variety of areas of dynamics will be covered, and may include topological dynamics, symbolic dynamics, ergodic theory, and smooth dynamics.
+      <u>Description:</u>   This course gives an introduction to concepts and examples in the study of dynamical systems. The key notions of recurrence, classification, stability, entropy and chaos will be introduced and illustrated through model examples. A variety of areas of dynamics will be covered, and may include topological dynamics, symbolic dynamics, ergodic theory, and smooth dynamics.
      </small>
      </p>
   </details>
@@ -125,7 +130,7 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
     </summary>
     <p>
     <small style="color: #008383;">
- Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+  <u>Description:</u>   Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
      </small>
      </p>
   </details>
@@ -157,7 +162,7 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
 </ul>
 
 
-
+<hr style="margin: 1.5rem 0;">
 
 ## Undergrad Research Mentoring
 
@@ -174,8 +179,10 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
         <em> Isometries of the Hyperbolic Upper Half Plane</em>, with Sam Simon and Sally Xi, 2026
       </li>
       <li>
-        <em> Representations of Braid Groups</em>, with Chengyue Zhang, 2025
-      </li>
+      <a href="https://math.uchicago.edu/~may/REU2025/REUPapers/Zhang,Chengyue.pdf" target="_blank" rel="noopener">
+          <em>Representations of Braid Groups</em>
+      </a>, with Chengyue Zhang, 2025
+     </li>     
       <li>
         <em> Discrete Isometries of S<sup>2</sup></em>, with Kavya Vaidyanathan, 2025
       </li>
@@ -183,10 +190,14 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
         <em> The Simplicial Approximation Theorem</em>, with Victoria Kurakata, 2025
       </li>
       <li>
-        <em> The Euler Characteristic and Smooth Vector Fields</em>, with Michael Kaibni, 2024
+            <a href="https://math.uchicago.edu/~may/REU2024/REUPapers/Kaibni.pdf" target="_blank" rel="noopener">
+          <em>The Euler Characteristic and Smooth Vector Fields</em>
+      </a>, with Michael Kaibni, 2024
       </li>
     </ul>
 </li>
+    
+    
     
     
 <li>
@@ -207,6 +218,7 @@ I was the <strong>DRP mentor</strong> for the following projects:
 </li>
 </ul>
 
+<hr style="margin: 1.5rem 0;">
 
 ## Mathematics Outreach
 <ul>
