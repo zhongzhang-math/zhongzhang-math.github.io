@@ -33,19 +33,17 @@
     padding: 0.5rem 0.8rem;
   }
 
-  /*
-   * Empty left column balances the controls on the right,
-   * keeping the name centered in the full top row.
-   */
   .sidebar-sticky {
     display: grid;
     grid-template-columns: 34px minmax(0, 1fr) 34px;
     grid-template-areas:
-      ". name controls"
+      ". name email"
+      ". name toggle"
       "navigation navigation navigation";
+    grid-template-rows: 22px 22px auto;
     align-items: center;
     column-gap: 0.4rem;
-    row-gap: 0.1rem;
+    row-gap: 0;
     width: 100%;
   }
 
@@ -63,7 +61,7 @@
     margin: 0;
   }
 
-  /* Completely remove sidebar picture on mobile */
+  /* Remove sidebar photo on mobile */
   .sidebar-about .brand > a:first-child {
     display: none !important;
   }
@@ -125,26 +123,27 @@
     display: none !important;
   }
 
-  /* Email at top right */
+  /* Email in its own upper-right cell */
   .sidebar-sticky > a.social[title="Email"] {
-    grid-area: controls;
+    grid-area: email;
     display: flex !important;
-    align-self: start;
+    align-self: center;
     justify-self: center;
     align-items: center;
     justify-content: center;
-    width: 24px;
-    height: 24px;
+    width: 22px;
+    height: 22px;
     margin: 0 !important;
   }
 
-  /* Light/dark switch below email */
+  /* Light/dark switch in its own lower-right cell */
   .sidebar-sticky > .light-dark {
-    grid-area: controls;
+    grid-area: toggle;
     display: block;
-    align-self: end;
+    align-self: center;
     justify-self: center;
     width: 22px;
+    height: 22px;
     margin: 0;
   }
 
@@ -168,27 +167,25 @@
     padding-top: 1rem;
   }
 
-.mobile-about-photo {
-  display: block;
-  float: right;
-  width: 180px;
-  max-width: 42%;
-  margin: 0 0 0.6rem 0.9rem;
-}
+  /* About-page photo: mobile only, floated right */
+  .mobile-about-photo {
+    display: block;
+    float: right;
+    width: 180px;
+    max-width: 42%;
+    margin: 0 0 0.6rem 0.9rem;
+  }
 
-.mobile-about-photo img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin: 0;
-  border: none;
-  border-radius: 0;
-}
+  .mobile-about-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+  }
 
-/* Prevent the next section heading from sitting beside the photo */
-.mobile-about-photo ~ h3 {
-  clear: both;
-}
-
-
+  .mobile-about-photo ~ h3 {
+    clear: both;
+  }
 }
