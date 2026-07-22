@@ -7,7 +7,7 @@ layout: single
 ### Linear representations of the mapping class group of dimension at most 3g − 3
 
 with Julian Kaufmann, [Nick Salter](https://nsalter.science.nd.edu/), [Xiyan Zhong](https://xiyan-zhong.github.io/)
-[arxiv](https://arxiv.org/abs/2507.11365) [pdf](mcgreps.pdf)  
+[arxiv](https://arxiv.org/abs/2507.11365) [pdf](mcg_3g-3.pdf)  
 
 Abstract: We classify representations of the mapping class group of a surface of genus g (with at
 most one puncture or boundary component) up to dimension 3g − 3. Any such representation is the
