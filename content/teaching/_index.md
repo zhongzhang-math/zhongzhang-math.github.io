@@ -3,6 +3,41 @@ title: 'Teaching'
 draft: false
 layout: single
 ---
+<style>
+@media (max-width: 600px) {
+  .course-details summary {
+    list-style: none;
+    cursor: pointer;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  .course-details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .course-details summary::marker {
+    content: "";
+  }
+
+  .course-details summary::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-right: 0.4rem;
+    border-top: 0.32rem solid transparent;
+    border-bottom: 0.32rem solid transparent;
+    border-left: 0.48rem solid black;
+    vertical-align: 0.02rem;
+  }
+
+  .course-details[open] summary::before {
+    transform: rotate(90deg);
+  }
+}
+</style>
+
 
 <style>
 .compact-sublist {
