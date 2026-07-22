@@ -78,25 +78,25 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     content_bg_color = "#FAF9F6"            # default is #FAF9F6
     date_color = "#515151"                  # default is #515151
     link_color = "#268BD2"                  # default is #268BD2
-    list_color = "#404040"                  # default is #5A5A5A
+    list_color = "#063b04"                  # default is #5A5A5A
     post_title_color = "#303030"            # default is #303030
     table_border_color = "#E5E5E5"          # default is #E5E5E5
     table_stripe_color = "#F9F9F9"          # default is #F9F9F9
-    text_color = "#222"                     # default is #222
+    text_color = "#033301"                     # default is #222
 
     # Hex colors for your content in dark mode
-    code_color_dark = "#FFF"                        # default is #FFF
+    code_color_dark = "#f7fcf7"                        # default is #FFF
     code_background_color_dark = "#515151"          # default is #515151
-    code_block_color_dark = "#FFF"                  # default is #FFF
+    code_block_color_dark = "#f7fcf7"                  # default is #FFF
     code_block_background_color_dark = "#272822"    # default is #272822
     content_bg_color_dark = "#121212"               # default is #121212
     date_color_dark = "#9A9A9A"                     # default is #9A9A9A
-    link_color_dark = "#268BD2"                     # default is #268BD2
-    list_color_dark = "#9D9D9D"                     # default is #9D9D9D
-    post_title_color_dark = "#DBE2E9"               # default is #DBE2E9
+    link_color_dark = "#78b7e3"                     # default is #268BD2
+    list_color_dark = "#dae6da"                     # default is #9D9D9D
+    post_title_color_dark = "#f7fcf7"               # default is #DBE2E9
     table_border_color_dark = "#515151"             # default is #515151
     table_stripe_color_dark = "#202020"             # default is #202020
-    text_color_dark = "#EEE"                        # default is #EEE
+    text_color_dark = "#e6f0e6"                        # default is #EEE
 
     # NOTE: If using Remark42 as commenting engine, uncomment and configure these lines
     # remark42 = true

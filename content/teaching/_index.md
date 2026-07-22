@@ -9,6 +9,14 @@ layout: single
   margin-right: 2rem;
 }
 
+.course-description {
+  color: #027062;
+}
+
+body.dark-theme .course-description {
+  color: #95c4be;
+}
+
 @media (max-width: 600px) {
   .course-details summary {
     list-style: none;
@@ -72,7 +80,7 @@ layout: single
      <summary> MATH 132: Elementary Functions and Calculus II, Winter 2026
     </summary>
     <p>
-      <small style="color: #008383;">
+      <small class="course-description">
       <u>Description:</u>  This is the second course in a sequence that begins with Math 13100 (Elementary Functions and Calculus I). Topics examined in MATH 13200 include applications of differentiation; exponential, logarithmic, and trigonometric functions; the definite integral and the Fundamental Theorem of Calculus, and applications of the integral.
      </small>
            </p>
@@ -82,7 +90,7 @@ layout: single
     <summary> MATH 131: Elementary Functions and Calculus I, Fall 2025
     </summary>
     <p>
-      <small style="color: #008383;">
+      <small class="course-description">
       <u>Description:</u>  This is the first course in the calculus sequence MATH 131-132-133. MATH 131 gives a careful treatment of limits, the continuity and differentiability of algebraic functions, and applications of the derivative. </small>
            </p>
   </details>
@@ -97,7 +105,7 @@ layout: single
     <summary> MATH 132: Elementary Functions and Calculus II  (flipped classroom), Spring 2026
     </summary>
     <p>
-      <small style="color: #008383;">
+      <small class="course-description">
       <u>Description:</u>  This is the third course a calculus sequence that begins with Math 105 (Pre-calc) and Math 13100 (Elementary Functions and Calculus I). The course begins with the trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
      </small>
      </p>
@@ -107,7 +115,7 @@ layout: single
     <summary> MATH 255: Basic Algebra II, Spring 2025
     </summary>
     <p>
-     <small style="color: #008383;">
+     <small class="course-description">
  <u>Description:</u>  This course covers rings and ideals, PIDs, Euclidean domains, UFDs, fields and field extensions, modules and canonical forms of matrices, quadratic forms, and multilinear algebra.
      </small>
      </p>
@@ -118,7 +126,7 @@ layout: single
     <summary> MATH 276, Dynamical Systems, Winter 2025
     </summary>
     <p>
-     <small style="color: #008383;"> 
+     <small class="course-description"> 
       <u>Description:</u>   This course gives an introduction to concepts and examples in the study of dynamical systems. The key notions of recurrence, classification, stability, entropy and chaos will be introduced and illustrated through model examples. A variety of areas of dynamics will be covered, and may include topological dynamics, symbolic dynamics, ergodic theory, and smooth dynamics.
      </small>
      </p>
@@ -129,7 +137,7 @@ layout: single
     <summary> MATH 257, Honors Basic Algebra I, Fall 2024
     </summary>
     <p>
-    <small style="color: #008383;">
+    <small class="course-description">
   <u>Description:</u>   Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
      </small>
      </p>
