@@ -13,6 +13,16 @@ layout: single
   color: #027062;
 }
 
+.container.content {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.container.content::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
 body.dark-theme .course-description {
   color: #95c4be;
 }
