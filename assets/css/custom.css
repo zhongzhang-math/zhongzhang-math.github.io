@@ -144,22 +144,22 @@
   display: block;
   align-self: center;
   justify-self: center;
-  width: 22px;
-  height: 22px;
+  width: 18px;
+  height: 18px;
   margin: 0;
-  transform: translateY(14px);
+  transform: translateY(15px);
 }
 
   .sidebar-sticky > .light-dark .btn-light-dark {
-    width: 22px;
-    height: 22px;
+    width: 18px;
+    height: 18px;
     margin: 0 !important;
     padding: 0;
   }
 
   .sidebar-sticky > .light-dark .btn-light-dark svg {
-    width: 13px;
-    height: 13px;
+    width: 18px;
+    height: 18px;
   }
 
   .sidebar-sticky > .footnote {
