@@ -6,7 +6,7 @@ layout: single
 
 ### Linear representations of the mapping class group of dimension at most 3g − 3
 
-with Julian Kaufmann, [Nick Salter](https://nsalter.science.nd.edu/), [Xiyan Zhong](https://xiyan-zhong.github.io/) <br>
+with Julian Kaufmann, [Nick Salter](https://nsalter.science.nd.edu/), [Xiyan Zhong](https://xiyan-zhong.github.io/)  \
 *Alg. Geom. Topol.*, to appear, [arXiv](https://arxiv.org/abs/2507.11365), [PDF](mcg_3g-3.pdf)
 
 <div class="paper-abstract">
