@@ -4,26 +4,7 @@ draft: false
 layout: single
 ---
 
-<style>
-.course-details summary {
-  list-style: none;
-  cursor: pointer;
-}
 
-.course-details summary::-webkit-details-marker {
-  display: none;
-}
-
-.course-details summary::before {
-  content: "▸";
-  display: inline-block;
-  margin-right: 0.4rem;
-}
-
-.course-details[open] summary::before {
-  content: "▾";
-}
-</style>
 
 ## University of Chicago
 
@@ -57,7 +38,7 @@ layout: single
   <li>
   I was the <strong>Grad Student Teaching Assistant</strong> for 
     <details class="course-details">
-    <summary>MATH 132: Elementary Functions and Calculus II  (flipped classroom), Spring 2026
+    <summary> MATH 132: Elementary Functions and Calculus II  (flipped classroom), Spring 2026
     </summary>
     <p>
       <small style="color: #008383;">
@@ -119,7 +100,7 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
         <em>MATH 114: Multivariable Calculus, Fall 2022
       </li>
       <li>
-        <em>ENM 3750: Biological Data Science I, Spring 2022
+        <em>ENM 375: Biological Data Science I, Spring 2022
       </li>
       <li>
         <em>MATH 104: Single-Variable Calculus, Fall 2021        </li>
@@ -129,28 +110,29 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
 </ul>
 
 ## Undergraduate Research Mentoring
-<li>
+<ul>
+  <li>
 <p style="margin-bottom: 0;">
  I was the <strong>REU mentor</strong> for the following projects: 
 </p>
 <ul style="margin-top: 0; list-style-type: circle;">
       <li>
-        <em>Groups acting on CAT(0)-spaces</em>, with Shile Wang, 2026
+        <em> Groups acting on CAT(0)-spaces</em>, with Shile Wang, 2026
       </li>
       <li>
-        <em>Isometries of the Hyperbolic Upper Half Plane</em>, with Sam Simon and Sally Xi, 2026
+        <em> Isometries of the Hyperbolic Upper Half Plane</em>, with Sam Simon and Sally Xi, 2026
       </li>
       <li>
-        <em>Representations of Braid Groups</em>, with Chengyue Zhang, 2025
+        <em> Representations of Braid Groups</em>, with Chengyue Zhang, 2025
       </li>
       <li>
-        <em>Discrete Isometries of S<sup>2</sup></em>, with Kavya Vaidyanathan, 2025
+        <em> Discrete Isometries of S<sup>2</sup></em>, with Kavya Vaidyanathan, 2025
       </li>
       <li>
-        <em>The Simplicial Approximation Theorem</em>, with Victoria Kurakata, 2025
+        <em> The Simplicial Approximation Theorem</em>, with Victoria Kurakata, 2025
       </li>
       <li>
-        <em>The Euler Characteristic and Smooth Vector Fields</em>, with Michael Kaibni, 2024
+        <em> The Euler Characteristic and Smooth Vector Fields</em>, with Michael Kaibni, 2024
       </li>
     </ul>
 </li>
@@ -164,7 +146,7 @@ I was the <strong>DRP mentor</strong> for the following projects:
         <em> Surface topology, with Jericho Liang, Ken Lee, Chengyue Zhang, Fall 2025 
             </li>
       <li>
-        <em>   Enumerative geometry and string theory, with Maxwell Zhang, Spring 2025
+        <em>  Enumerative geometry and string theory, with Maxwell Zhang, Spring 2025
       </li>
       <li>
         <em> Enumerative algebraic geometry, with Jen Tang, Winter 2025
