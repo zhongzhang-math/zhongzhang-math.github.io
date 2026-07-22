@@ -6,40 +6,177 @@ layout: single
 
 ## University of Chicago
 
-* **Graduate Student Assistant for Math 132 (flipped classroom): Elementary Functions and Calculus II**
- Spring 2026
- 
-* **Instructor for MATH 132: Elementary Functions and Calculus II**
-Winter 2026
+<ul>
+  <li>
+    I was the <strong>Instructor of Record</strong> for
+    
+   <details class="course-details" style="margin: 0;">
+     <summary> MATH 132: Elementary Functions and Calculus II, Winter 2026
+    </summary>
+    <p>
+      <small>
+     Description: This is the second course in a sequence that begins with Math 13100 (Elementary Functions and Calculus I). Topics examined in MATH 13200 include applications of differentiation; exponential, logarithmic, and trigonometric functions; the definite integral and the Fundamental Theorem of Calculus, and applications of the integral.
+     </small>
+           </p>
+  </details>
+  
+   <details class="course-details">
+    <summary> MATH 131: Elementary Functions and Calculus I, Fall 2025
+    </summary>
+    <p>
+      <small>
+     Description: This is the first course in the calculus sequence MATH 131-132-133. MATH 131 gives a careful treatment of limits, the continuity and differentiability of algebraic functions, and applications of the derivative. </small>
+           </p>
+  </details>
+  </li>
+</ul>
 
-* **Instructor for MATH 131: Elementary Functions and Calculus I**
-Fall 2025
+  
+<ul>
+  <li>
+  I was the <strong>Grad Student Teaching Assistant</strong> for 
+    <details class="course-details">
+    <summary>MATH 132: Elementary Functions and Calculus II  (flipped classroom), Spring 2026
+    </summary>
+    <p>
+      <small>
+     Description: This is the third course in a sequence that begins with Math 10500 (Pre-calculus) and Math 13100 (Elementary Functions and Calculus I). The course begins with the calculus of trigonometric functions and proceeds with the basics of integration. Topics include the definition of the integral, computational techniques, the Fundamental Theorem of Calculus, and applications to exponential, logarithmic, and inverse trigonometric functions. This course also develops integration techniques such as integration by parts and and algebraic and transcendental substitutions. This course balances computation with conceptual understanding, logical reasoning, proof, and geometric interpretation.
+     </small>
+     </p>
+  </details>
+  
+   <details class="course-details">
+    <summary> MATH 255: Basic Algebra II, Spring 2025
+    </summary>
+    <p>
+      <small>  Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs, fields and field extensions, modules and canonical forms of matrices, quadratic forms, and multilinear algebra.
+     </small>
+     </p>
+  </details>
 
-* **Teaching Assistant for MATH 255: Basic Algebra II**
-Spring 2025
 
-* **Teaching Assistant for MATH 276, Dynamical Systems**
-Winter 2025
+   <details class="course-details">
+    <summary> MATH 276, Dynamical Systems, Winter 2025
+    </summary>
+    <p>
+      <small> Description:  This course gives an introduction to concepts and examples in the study of dynamical systems. The key notions of recurrence, classification, stability, entropy and chaos will be introduced and illustrated through model examples. A variety of areas of dynamics will be covered, and may include topological dynamics, symbolic dynamics, ergodic theory, and smooth dynamics.
+     </small>
+     </p>
+  </details>
 
-* **Teaching Assistant for MATH 257, Honors Algebra**
-Fall 2024
+
+   <details class="course-details">
+    <summary> MATH 257, Honors Basic Algebra I, Fall 2024
+    </summary>
+    <p>
+      <small> Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+     </small>
+     </p>
+  </details>
+
+  </li>
+</ul>
+
 
 ## University of Pennsylvania
 
-* **Teaching Assistant for MATH 260: Honors Calculus**
-Spring 2023
+  
+<ul>
+  <li>
+ I was the <strong> Undergraduate Teaching Assistant </strong> for 
+    <details class="course-details">
+    <summary> MATH 260: Honors Calculus, Spring 2023
+    </summary>
+    <p>
+      <small> Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+     </small>
+     </p>
+  </details>
+  
+   <details class="course-details">
+    <summary> MATH 114: Multivariable Calculus**, Fall 2022
+    </summary>
+    <p>
+      <small> Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+     </small>
+     </p>
+  </details>
+  
+   <details class="course-details">
+    <summary> ENM 3750: Biological Data Science I, Spring 2022
+    </summary>
+    <p>
+      <small> Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+     </small>
+     </p>
+  </details>
+  
+   <details class="course-details">
+    <summary> MATH 104: Single-Variable Calculus, Fall 2021
+    </summary>
+    <p>
+      <small> Description:  Topics include the theory of finite groups, commutative and noncommutative ring theory, modules, linear and multilinear algebra, and quadratic forms. We also cover basic field theory, the structure of p-adic fields, and Galois theory.
+     </small>
+     </p>
+  </details>
 
-* **Teaching Assistant for MATH 114: Multivariable Calculus**
-Fall 2022
 
-* **Teaching Assistant for ENM 3750: Biological Data Science I**
-Spring 2022
+  </li>
+</ul>
 
-* **Teaching Assistant for MATH 104: Single-Variable Calculus**
-Fall 2021
+## Undergraduate Research Mentoring
+<li>
+<p style="margin-bottom: 0;">
+ I was the <strong>REU mentor</strong> for the following projects: 
+</p>
+<ul style="margin-top: 0; list-style-type: circle;">
+      <li>
+        <em>Groups acting on CAT(0)-spaces</em>, with Shile Wang, 2026
+      </li>
+      <li>
+        <em>Isometries of the Hyperbolic Upper Half Plane</em>, with Sam Simon and Sally Xi, 2026
+      </li>
+      <li>
+        <em>Representations of Braid Groups</em>, with Chengyue Zhang, 2025
+      </li>
+      <li>
+        <em>Discrete Isometries of S<sup>2</sup></em>, with Kavya Vaidyanathan, 2025
+      </li>
+      <li>
+        <em>The Simplicial Approximation Theorem</em>, with Victoria Kurakata, 2025
+      </li>
+      <li>
+        <em>The Euler Characteristic and Smooth Vector Fields</em>, with Michael Kaibni, 2024
+      </li>
+    </ul>
+</li>
+    
+ <li>
+<p style="margin-bottom: 0;">
+I was the <strong>DRP mentor</strong> for the following projects: 
+</p>
+<ul style="margin-top: 0; list-style-type: circle;">
+      <li>
+        <em> Surface topology, with Jericho Liang, Ken Lee, Chengyue Zhang, Fall 2025 
+            </li>
+      <li>
+        <em>   Enumerative geometry and string theory, with Maxwell Zhang, Spring 2025
+      </li>
+      <li>
+        <em> Enumerative algebraic geometry, with Jen Tang, Winter 2025
+      </li>
+    </ul>
+</li>
 
-## Math Circles at Chicago
-* **Co-teacher for Brahmagupta-7/8 grades**
-2024-2025
+
+
+## Mathematics Outreach
+<ul>
+  <li>
+ I was the <strong> co-teacher </strong> for 
+Brahmagupta-7/8 grades at Math Circles at Chicago, 2024-2025
+
+  </li>
+</ul>
 
 
