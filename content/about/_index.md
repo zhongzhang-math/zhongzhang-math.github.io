@@ -7,27 +7,30 @@ layout: single
 
 Hi, I'm Zhong Zhang, a fourth year math PhD Student at the University of Chicago, working with [Benson Farb](https://www.math.uchicago.edu/~farb/). I completed my undergraduate studies at the University of Pennsylvania. 
 
-I am broadly interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. Outside of math, I enjoy cooking, rock climbing, and playing table tennis. 
+I am broadly interested in topology and geometry. I often think about algebraic varieties through a topological lens. Lately, my work has focused on mapping class groups, moduli spaces of curves, and monodromy. 
+
+Outside of math, I enjoy cooking, rock climbing, and playing table tennis. 
 
 You can reach me at zhongz@uchicago.edu.
- 
+
+
 ### Recent Conferences and Workshops:
+
 <ul>
   <li>
-    <a href="https://margalit.droppages.net/tsw26">
+    <a href="https://margalit.droppages.net/tsw26" target="_blank" rel="noopener">
       Topological Student Workshop, 2026
     </a>
   </li>
   <li>
-    <a href="https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html">
+    <a href="https://websites.umich.edu/~jchw/SummerSchool2026/SummerSchool2026.html" target="_blank" rel="noopener">
       Configuration Spaces Summer School, 2026
     </a>
   </li>
-   <li>
-    <a href="https://redbud.math.ou.edu/spring-2026/">
-     Redbud Topology Conference, 2026
+  <li>
+    <a href="https://redbud.math.ou.edu/spring-2026/" target="_blank" rel="noopener">
+      Redbud Topology Conference, 2026
     </a>
   </li>
 </ul>
-
 
