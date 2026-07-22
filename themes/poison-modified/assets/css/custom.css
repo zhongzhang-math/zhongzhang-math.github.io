@@ -1,1 +1,6 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
+
+.paper-abstract {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
