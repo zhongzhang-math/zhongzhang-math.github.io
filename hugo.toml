@@ -4,6 +4,11 @@ CanonifyURLs=true
 languageCode = 'en-us'
 title = 'Zhong Zhang'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [module]
   [[module.imports]]
     path = 'github.com/lukeorth/poison'
@@ -108,10 +113,4 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     # series = 'series'
     tags = 'tags'
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
 
