@@ -9,7 +9,7 @@ layout: single
 with Julian Kaufmann, [Nick Salter](https://nsalter.science.nd.edu/), [Xiyan Zhong](https://xiyan-zhong.github.io/)  \
 *Alg. Geom. Topol.*, to appear, [arXiv](https://arxiv.org/abs/2507.11365), [PDF](mcg_3g-3.pdf)
 
-<div class="paper-abstract">
+<div style="margin-left: 2rem; margin-right: 2rem;">
 
 **Abstract**: We classify representations of the mapping class group of a surface of genus g (with at
 most one puncture or boundary component) up to dimension 3g − 3. Any such representation is the
