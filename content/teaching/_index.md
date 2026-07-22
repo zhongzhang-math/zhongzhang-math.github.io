@@ -4,6 +4,24 @@ draft: false
 layout: single
 ---
 
+<style>
+.compact-sublist {
+  padding-left: 1rem;
+}
+
+@media (max-width: 600px) {
+  .compact-sublist {
+    padding-left: 0.75rem;
+  }
+
+  .compact-sublist li {
+    padding-left: 0;
+    margin-bottom: 0.25rem;
+  }
+}
+</style>
+
+
 ## University of Chicago
 
 <ul>
@@ -84,38 +102,38 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
 ## University of Pennsylvania
 
   
-<ul>
+<ul class="compact-list">
   <li>
 <p style="margin-bottom: 0;">
  I was the <strong>Undergrad Teaching Assistant </strong> for: 
 </p>
-<ul style="margin-top: 0; padding-left: 1rem; list-style-type: circle;">
+<ul class="compact-sublist" style="margin-top: 0; list-style-type: circle;">
       <li>
-        <em>
   MATH 260: Honors Calculus, Spring 2023
  </li>
-      <li>
-        <em>MATH 114: Multivariable Calculus, Fall 2022
+      <li> MATH 114: Multivariable Calculus, Fall 2022
       </li>
-      <li>
-        <em>ENM 375: Biological Data Science I, Spring 2022
+      <li> ENM 375: Biological Data Science I, Spring 2022
       </li>
-      <li>
-        <em>MATH 104: Single-Variable Calculus, Fall 2021        </li>
+      <li> MATH 104: Single-Variable Calculus, Fall 2021        </li>
         </ul>
 </li>
   </li>
 </ul>
 
+
+
+
 ## Undergrad Research Mentoring
+
 <ul>
   <li>
 <p style="margin-bottom: 0;">
  I was the <strong>REU mentor</strong> for the following projects: 
 </p>
-<ul style="margin-top: 0; padding-left: 1rem; list-style-type: circle;">
+<ul class="compact-sublist" style="margin-top: 0; list-style-type: circle;">
       <li>
-        <em> Groups acting on CAT(0)-spaces</em>, with Shile Wang, 2026
+        <em> Groups acting on CAT(0)-spaces</em>, with Shile Wang, 2026 
       </li>
       <li>
         <em> Isometries of the Hyperbolic Upper Half Plane</em>, with Sam Simon and Sally Xi, 2026
@@ -140,15 +158,15 @@ Description: This course covers rings and ideals, PIDs, Euclidean domains, UFDs,
 <p style="margin-bottom: 0;">
 I was the <strong>DRP mentor</strong> for the following projects: 
 </p>
-<ul style="margin-top: 0; padding-left: 1rem; list-style-type: circle;">
+<ul class="compact-sublist" style="margin-top: 0; list-style-type: circle;">
       <li>
-        <em> Surface topology, with Jericho Liang, Ken Lee, Chengyue Zhang, Fall 2025 
+        <em> Surface topology </em>, with Jericho Liang, Ken Lee, Chengyue Zhang, Fall 2025 
             </li>
       <li>
-        <em>  Enumerative geometry and string theory, with Maxwell Zhang, Spring 2025
+        <em>  Enumerative geometry and string theory</em>, with Maxwell Zhang, Spring 2025
       </li>
       <li>
-        <em> Enumerative algebraic geometry, with Jen Tang, Winter 2025
+        <em> Enumerative algebraic geometry</em>, with Jen Tang, Winter 2025
       </li>
     </ul>
 </li>
