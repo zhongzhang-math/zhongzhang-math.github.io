@@ -110,7 +110,7 @@ body.dark-theme .course-description {
   
 <ul>
   <li>
-  I was the <strong>Grad Student Teaching Assistant</strong> for 
+  I was the <strong>Graduate Teaching Assistant</strong> for 
     <details class="course-details">
     <summary> MATH 132: Elementary Functions and Calculus II  (flipped classroom), Spring 2026
     </summary>
