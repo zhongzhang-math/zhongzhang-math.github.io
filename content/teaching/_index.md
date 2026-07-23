@@ -51,7 +51,7 @@ body.dark-theme .course-description {
     margin-right: 0.4rem;
     border-top: 0.32rem solid transparent;
     border-bottom: 0.32rem solid transparent;
-    border-left: 0.48rem solid black;
+    border-left: 0.48rem solid currentColor;
     vertical-align: 0.02rem;
   }
 
